@@ -1,2 +1,2 @@
 # Apolo
- uma inteligencia virtual feito em python
+ um assistente virtual
